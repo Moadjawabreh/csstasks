@@ -1,0 +1,16 @@
+.parent {
+  margin-left: 100px;
+  width: 70vh;
+  display: flex;
+  flex-direction: c;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.parent2 {
+  margin-left: 100px;
+  width: 70vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
